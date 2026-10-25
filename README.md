@@ -104,14 +104,6 @@
   <img src="https://streak-stats.demolab.com?user=ZaikOSS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaikOSS&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZaikOSS&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
 ---
 
 <p align="center">
