@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://zakaria-ouadifi.buzz/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-zakaria--ouadifi.buzz-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/zakaria-ouadifi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://tryhackme.com/p/YOUR-THM-USERNAME" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"/></a>
+  <a href="https://www.linkedin.com/in/zakaria-ouadifi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://tryhackme.com/p/Z4ik0S" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Z4ik0S-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"/></a>
 </p>
 
 <p align="center">
@@ -17,44 +17,13 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 Quick Facts
 
-- 🎓 3rd-year engineering student in **Génie du Développement Numérique et Cybersécurité** at **ENSA Fès**
-- 🏥 Cybersecurity intern at **CHR Hôpital Ghassani**, spanning offensive security (pentesting, network auditing) and defensive/SOC work (Wazuh SIEM, detection engineering)
-- 🔎 Focused on threat detection, incident response, and securing critical applications & infrastructure
-- 🎯 Currently looking for a **PFE (end-of-studies internship)**, starting January 2027
-- 🌍 Arabic (native) · French (fluent) · English (fluent)
-
----
-
-### 💼 Experience
-
-**Security Audit & SOC Intern** — *CHR Hôpital Ghassani (SAA)* · Jun – Jul 2026
-- Audited service infrastructure (workstations, servers, IP cameras, switches) with Nmap, OpenVAS, and Burp Suite
-- Built **NetWatch**, a real-time network monitoring web app for tracking equipment and events
-- Deployed and hardened a **Wazuh**-based SOC with custom detection rules (SQLi, brute force, path traversal) and **Suricata** integration
-
-**DevSecOps & AppSec Intern** — *Khaoulaj Group Operations* · Jun – Aug 2026
-- Secured the Ytech Solutions e-commerce app, embedding security practices into the SDLC
-- Built a GitHub Actions CI/CD pipeline with **CodeQL** (SAST) and **OWASP ZAP** (DAST) for continuous security analysis
-- Centralized vulnerability tracking with **DefectDojo**; built Wazuh dashboards for malicious activity monitoring
-
-**Network Supervision & Security Intern** — *ONDA (Office National des Aéroports), Fès* · Aug – Sep 2025
-- Designed and deployed an SNMP-based network monitoring application
-- Hardened network equipment security; simulated architectures with **GNS3** and **Cisco Packet Tracer**
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **OmniProbe** | Network diagnostic toolkit: local/remote Nmap scans over SSH enriched with Shodan InternetDB & CVE databases (MITRE, CIRCL), real-time RBAC dashboard | React · Node.js · MongoDB · Socket.IO · Nmap · SSH |
-| **ZaikOS-SIEM-SOAR** | SIEM/SOAR platform for alert centralization, correlation, and automated incident response (IP blocking via UFW/SSH); integrates Threat Intel from VirusTotal & AbuseIPDB | Wazuh · React · Socket.IO · Python · UFW |
-| **Honeypot-ELK** | Multi-protocol honeypot (SSH, HTTP, FTP) capturing and correlating malicious activity via the ELK Stack, hardened with AppArmor and Seccomp | Python · Docker · ELK Stack · AppArmor |
-| **NetWatch** | Real-time network supervision web app built for hospital infrastructure monitoring | — |
-
-📂 Browse all repositories: [github.com/ZaikOSS](https://github.com/ZaikOSS?tab=repositories)
+- 🎓 Cybersecurity Engineering student, ENSA Fès
+- 🏥 Intern @ CHR Hôpital Ghassani — offensive & defensive security, SOC/SIEM
+- 🎤 Staff @ SecOps ENSAF — cybersecurity workshops & Cyber Odyssey
+- 🎯 Looking for a PFE starting January 2027
+- 🌍 Arabic · French · English
 
 ---
 
@@ -107,36 +76,44 @@
 
 ---
 
-### 📜 Certifications
+### 🏅 TryHackMe & Certifications
 
-- 🏅 **SOC Level 1** — TryHackMe (Sept 2026)
-- 🏅 **Jr Penetration Tester** — TryHackMe (Feb 2026)
-- 🏅 **Web Fundamentals** — TryHackMe (Feb 2026)
-- 🏅 **Introduction à la Cybersécurité** — Cisco Networking Academy, ENSA Fès (Apr 2025)
+<p align="center">
+  <a href="https://tryhackme.com/p/Z4ik0S" target="_blank">
+    <img src="https://cdn-images.tryhackme.com/public-profile/Z4ik0S/badge-d1d0d6c5fad9.png" alt="Z4ik0S's TryHackMe badge." width="400">
+  </a>
+</p>
 
-> ⚡ Note: TryHackMe's badge embed uses a `<script>` tag, which GitHub strips out of READMEs for security reasons, so it won't render. The badge above links to your TryHackMe profile instead — swap `YOUR-THM-USERNAME` for your actual TryHackMe username/profile slug.
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Level%201-TryHackMe-212C42?style=flat-square" alt="SOC Level 1"/>
+  <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-TryHackMe-212C42?style=flat-square" alt="Jr Penetration Tester"/>
+  <img src="https://img.shields.io/badge/Web%20Fundamentals-TryHackMe-212C42?style=flat-square" alt="Web Fundamentals"/>
+  <img src="https://img.shields.io/badge/Intro%20to%20Cybersecurity-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaikOSS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikOSS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaikOSS&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikOSS&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ZaikOSS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaikOSS&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
 
-### 🎤 Beyond the Code
-
-- **SecOps ENSAF** — Technical Staff & Training: represented ENSA Fès at Cyber Odyssey and ran pentesting workshops
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZaikOSS&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
 
 ---
 
 <p align="center">
-  <i>Open to cybersecurity PFE opportunities starting January 2027 — let's connect on <a href="https://linkedin.com/in/zakaria-ouadifi">LinkedIn</a> or check out my <a href="https://zakaria-ouadifi.buzz/">portfolio</a>.</i>
+  <i>Open to cybersecurity PFE opportunities starting January 2027 — let's connect on <a href="https://www.linkedin.com/in/zakaria-ouadifi/">LinkedIn</a>.</i>
 </p>
